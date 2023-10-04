@@ -1,2 +1,2 @@
-# Work with us.
+# Blogs at Prodinit.
 
