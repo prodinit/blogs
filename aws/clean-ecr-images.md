@@ -1,0 +1,1 @@
+# Ways to delete AWS ECR images
