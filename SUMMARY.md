@@ -16,7 +16,7 @@
 
 ## Python
 
-* [Page 4](python/page-4.md)
+* [Multipart uploads with s3 presigned url](python/multipart-uploads-with-s3-presigned-url.md)
 
 ## Golang
 
@@ -28,7 +28,7 @@
 
 ## AWS
 
-* [Page 7](aws/page-7.md)
+* [Clean ECR images](aws/clean-ecr-images.md)
 
 ## Data Engineering
 
@@ -36,7 +36,7 @@
 
 ## Databases
 
-* [Page 9](databases/page-9.md)
+* [Indexing vs Sharding](databases/indexing-vs-sharding.md)
 
 ## LLM
 
@@ -46,4 +46,3 @@
 
 * [Who are we?](contact-us/who-are-we.md)
 * [Work with us.](contact-us/work-with-us..md)
-* [Contact us](contact-us/contact-us.md)
