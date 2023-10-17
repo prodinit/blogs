@@ -6,7 +6,7 @@ description: Expert insights into the future of technology and innovation
 
 
 <p align="center">
-  <img alt="Blog Count" src="https://img.shields.io/badge/dynamic/json.svg?color=black&label=Blog Count&query=count&url=https%3A%2F%2Fraw.githubusercontent.com%2Fprodinit%2Fblogs%2Fmain%2Fcount.json", target="_blank">
+  <img alt="Blog Count" src="https://img.shields.io/badge/dynamic/json.svg?color=black&label=Blog-Count&query=count&url=https%3A%2F%2Fraw.githubusercontent.com%2Fprodinit%2Fblogs%2Fmain%2Fcount.json", target="_blank">
   <a href="https://prodinit.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fprodinit.com", target="_blank">
   </a>
