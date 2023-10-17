@@ -7,4 +7,4 @@ We are a small team of exceptionally skilled technical experts who possess a pro
 So far we've developed and deployed Dynamic Web Applications, Enterprise Softwares, DevOps and MLOps pipelines, Cloud Automation, CI/CD pipelines, CLI applications and a lot more.
 
 
-<mark>We are comfortable doing things end-to-end and think about the product all the way down to the infrastructure.</mark>
+`We are comfortable doing things end-to-end and think about the product all the way down to the infrastructure.`

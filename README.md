@@ -6,8 +6,9 @@ description: Expert insights into the future of technology and innovation
 
 
 <p align="center">
+  <img alt="Blog Count" src="https://img.shields.io/badge/dynamic/json.svg?color=black&label=Blog Count&query=count&url=https%3A%2F%2Fraw.githubusercontent.com%2Fprodinit%2Fblogs%2Fmain%2Fcount.json", target="_blank">
   <a href="https://prodinit.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fprodinit.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fprodinit.com", target="_blank">
   </a>
   <a href="https://www.prodinit.com/#contact">
     <img alt="Contact US" src="https://img.shields.io/badge/Contact%20us-8A2BE2" target="_blank" />
@@ -21,118 +22,106 @@ description: Expert insights into the future of technology and innovation
 </p>
 
 
-## Latest Blogs
-<!-- Structure -->
-* [Indexing vs Sharding](https://blogs.prodinit.com/databases/indexing-vs-sharding)
-* [Ways to delete AWS ECR images](https://blogs.prodinit.com/aws/clean-ecr-images)
-* [Multipart Upload with s3 presigned url - Python](https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url)
-
-
-
-
 ## Categories
-<!-- Structure -->
-* [AWS](#aws) [**`2`**]
-* [Backend Engineering](#backend-engineering) [**`1`**]
-* [Data Engineering](#data-engineering) [**`0`**]
-* [Databases](#databases) [**`1`**]
-* [Devops](#devops) [**`0`**]
-* [Frontend Engineering](#frontend-engineering) [**`0`**]
-* [Golang](#golang) [**`0`**]
-* [LLM](#llm) [**`0`**]
-* [Python](#python) [**`1`**]
-* [Software Engineering](#software-engineering) [**`0`**]
 
+* [AWS](#aws) [**`4`**] 
+* [Backend Engineering](#backend-engineering) [**`4`**] 
+* [Data Engineering](#data-engineering) [**`1`**] 
+* [Databases](#databases) [**`2`**] 
+* [Devops](#devops) [**`1`**] 
+* [Frontend Engineering](#frontend-engineering) [**`1`**] 
+* [Golang](#golang) [**`1`**] 
+* [LLM](#llm) [**`1`**] 
+* [Python](#python) [**`2`**] 
 
+### AWS
 
+<ul>
 
-### Software Engineering
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
 
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
-
+</ul>
 
 
 ### Backend Engineering
 
 <ul>
-    <li>
-        <a target="_blank" href="hthttps://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url">Multipart Upload with s3 presigned url - Python
-        </a>
-    </li>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
+
 </ul>
+
+
+### Data Engineering
+
+<ul>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/data-engineering/elasticsearch-novice-to-expert"> Elasticsearch - From Novice to Expert </a></li>
+
+</ul>
+
+
+### Databases
+
+<ul>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/data-engineering/elasticsearch-novice-to-expert"> Elasticsearch - From Novice to Expert </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Indexing vs Sharding </a></li>
+
+</ul>
+
+
+### Devops
+
+<ul>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
+
+</ul>
+
 
 ### Frontend Engineering
 
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
+<ul>
 
-### AWS
+<li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
+
+</ul>
+
+
+### Golang
 
 <ul>
-    <li>
-        <a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images">
-        Ways to delete AWS ECR images
-        </a>
-    </li>
-    <li>
-        <a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url">Multipart Upload with s3 presigned url - Python
-        </a>
-    </li>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
+
 </ul>
+
+
+### LLM
+
+<ul>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/llm/what-is-llm"> What is LLM? </a></li>
+
+</ul>
+
 
 ### Python
 
 <ul>
-    <li>
-        <a target="_blank" href="hthttps://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url">Multipart Upload with s3 presigned url - Python
-        </a>
-    </li>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
+
 </ul>
 
-### Golang
 
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
-
-### Devops
-
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
-
-### Data Engineering
-
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
-
-### Databases
-
-  <li>
-      <a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Indexing vs Sharding
-      </a>
-  </li>
-
-### LLM
-
-<!-- <ul>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/topic/slug">Topic</a></li>
-</ul> -->
 
 Original Idea/Work [Bhupesh-V/til](https://github.com/Bhupesh-V/til).

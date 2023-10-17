@@ -2,45 +2,51 @@
 
 * [Prodinit's Engineering Blog](README.md)
 
-## Software Engineering
 
-* [Page 1](software-engineering/page-1.md)
+## aws
 
-## Backend Engineering
+* [Ways to delete AWS ECR images](aws/clean-ecr-images.md)
+* [Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert](aws/enable-cloudwatch-alarm-for-billing-alert.md)
 
-* [Page 2](backend-engineering/page-2.md)
 
-## Frontend Engineering
+## backend engineering
 
-* [Page 3](frontend-engineering/page-3.md)
+* [What is idempotency](backend-engineering/what-is-idempotency.md)
 
-## Python
 
-* [Multipart uploads with s3 presigned url](python/multipart-uploads-with-s3-presigned-url.md)
+## data engineering
 
-## Golang
+* [Elasticsearch - From Novice to Expert](data-engineering/elasticsearch-novice-to-expert.md)
 
-* [Page 5](golang/page-5.md)
 
-## Devops
-
-* [Page 6](devops/page-6.md)
-
-## AWS
-
-* [Clean ECR images](aws/clean-ecr-images.md)
-
-## Data Engineering
-
-* [Page 8](data-engineering/page-8.md)
-
-## Databases
+## databases
 
 * [Indexing vs Sharding](databases/indexing-vs-sharding.md)
 
-## LLM
 
-* [Page 10](llm/page-10.md)
+## devops
+
+* [Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert](devops/kubernetes-deployment-strategies.md)
+
+
+## frontend engineering
+
+* [Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps](frontend-engineering/cloudfront-hosting.md)
+
+
+## golang
+
+* [Concurrency Comparision: Go vs Python](golang/concurrency-comparision-go-python.md)
+
+
+## llm
+
+* [What is LLM?](llm/what-is-llm.md)
+
+
+## python
+
+* [Multipart upload with presigned URL in Python](python/multipart-uploads-with-s3-presigned-url.md)
 
 ## Contact Us
 

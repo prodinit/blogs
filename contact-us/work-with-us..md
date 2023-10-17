@@ -2,11 +2,11 @@
 
 Hi :wave:
 
-We are glad that you're here thinking of collaborating. We can surely help you achieve your endeavours. 
+We are glad that you're here thinking of collaborating. We are here to assist you in accomplishing your future goals and aspirations. 
 
 We understand that choosing the right software development partner can be a challenging decision. That's why we are committed to demonstrating why we are the perfect fit for you.
 
-<mark>Our process to develop is flexible, iterative, incremental and client-centric</mark>
+`Our process to develop is flexible, iterative, incremental and client-centric`
 
 ## Hire us for
 
@@ -17,6 +17,7 @@ We understand that choosing the right software development partner can be a chal
 * Data pipelines design and deployment
 
 ## Tech Stack we are comfortable with
+
 * Python
     * Django
     * Django Rest Framework
