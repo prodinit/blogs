@@ -24,7 +24,7 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`4`**] 
+* [AWS](#aws) [**`5`**] 
 * [Backend Engineering](#backend-engineering) [**`4`**] 
 * [Data Engineering](#data-engineering) [**`1`**] 
 * [Databases](#databases) [**`2`**] 
@@ -41,6 +41,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
 
 </ul>

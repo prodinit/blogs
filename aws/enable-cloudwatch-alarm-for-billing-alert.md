@@ -47,6 +47,8 @@ It is always good to create this billing alert. You never know what is going to 
 
 #### Tags
 
-![AWS](https://img.shields.io/badge/AWS-8A2BE2)
+<a>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-8A2BE2" />
+</a>
 
 ### Enjoyed the blog? If so, you'll appreciate collaborating with the minds behind it as well.
