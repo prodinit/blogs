@@ -123,5 +123,7 @@ description: Expert insights into the future of technology and innovation
 </ul>
 
 
+## Contact Us
 
-Original Idea/Work [Bhupesh-V/til](https://github.com/Bhupesh-V/til).
+* [Who are we?](contact-us/who-are-we.md)
+* [Work with us.](contact-us/work-with-us..md)

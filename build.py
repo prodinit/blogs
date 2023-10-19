@@ -165,7 +165,7 @@ async def create_gitbooks_readme(folder_details):
                 readme.write("</li>\n")
             readme.write("\n</ul>\n\n")
 
-        readme.write(README_FOOTER)
+        readme.write(CONTACT_US_FOOTER)
 
 
 async def main():

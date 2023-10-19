@@ -22,3 +22,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-8A2BE2" />
 <a>
 <img alt="LLM" src="https://img.shields.io/badge/LLM-8A2BE2" />
+</a>
+
+### Enjoyed the blog? If so, you'll appreciate collaborating with the minds behind it as well.
