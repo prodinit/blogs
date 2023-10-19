@@ -11,7 +11,7 @@
 
 ## backend engineering
 
-* [What is idempotency](backend-engineering/what-is-idempotency.md)
+* [What is idempotency?](backend-engineering/what-is-idempotency.md)
 
 
 ## data engineering

@@ -52,7 +52,7 @@ description: Expert insights into the future of technology and innovation
 <ul>
 
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
 
