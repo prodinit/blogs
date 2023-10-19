@@ -1,6 +1,7 @@
 # Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert
 
 
+#### Written by - [Dishant Sethi](https://linkedin.com/in/dishantsethi)
 
 #### Tags
 
@@ -8,3 +9,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-8A2BE2" />
 <a>
 <img alt="Devops" src="https://img.shields.io/badge/Devops-8A2BE2" />
+</a>
+
+### Enjoyed the blog? If so, you'll appreciate collaborating with the minds behind it as well.
