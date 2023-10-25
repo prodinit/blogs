@@ -1,4 +1,6 @@
+
 # Database Optimisation: Indexing vs Sharding with Postgres and Django ORM examples
+
 
 Hello everyone, let me assume the reason you are here. 
 
