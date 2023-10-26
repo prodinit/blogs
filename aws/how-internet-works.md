@@ -48,8 +48,7 @@ Internet protocols(IP) are the set of rules which a request must follow to reach
 
 Now, you might be thinking that there are numerous processes running on a computer, how the server identifies the process number corresponding to a particular request. This is where the PORT number comes into play. Every process is defined with the different port number, which when matched with the port number on HOST2, sends back the response.
 
-> 
-    You don't need to learn this. This is only for people who are curious to know what under the hood. 
+> You don't need to learn this. This is only for people who are curious to know what happens under the hood.
 
 I’ll try to come up with more information on servers, protocols and different terms you want to be familiar with, hopefully soon.
 
