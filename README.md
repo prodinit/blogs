@@ -24,11 +24,11 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`7`**] 
+* [AWS](#aws) [**`8`**] 
 * [Backend Engineering](#backend-engineering) [**`6`**] 
 * [Data Engineering](#data-engineering) [**`1`**] 
 * [Databases](#databases) [**`2`**] 
-* [Devops](#devops) [**`5`**] 
+* [Devops](#devops) [**`6`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`1`**] 
@@ -41,6 +41,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
@@ -88,6 +89,7 @@ description: Expert insights into the future of technology and innovation
 
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/export-env-vars-in-circleci"> How to export env variables in circleci? (You wont find this in circleci documentation) </a></li>
