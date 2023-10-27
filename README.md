@@ -28,7 +28,7 @@ description: Expert insights into the future of technology and innovation
 * [Backend Engineering](#backend-engineering) [**`3`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
-* [Devops](#devops) [**`3`**] 
+* [Devops](#devops) [**`4`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`0`**] 
 * [LLM](#llm) [**`0`**] 
@@ -82,6 +82,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/export-env-vars-in-circleci"> How to export env variables in circleci? (You wont find this in circleci documentation) </a></li>
 
 </ul>
 

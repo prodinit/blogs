@@ -27,6 +27,7 @@
 
 ## devops
 
+* [How to export env variables in circleci? (You wont find this in circleci documentation)](devops/export-env-vars-in-circleci.md)
 
 
 ## frontend engineering
