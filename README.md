@@ -40,7 +40,7 @@ description: Expert insights into the future of technology and innovation
 
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
@@ -88,7 +88,7 @@ description: Expert insights into the future of technology and innovation
 <ul>
 
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>

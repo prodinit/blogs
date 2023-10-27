@@ -1,15 +1,13 @@
 # Database Optimisation: Indexing vs Sharding with Postgres and Django ORM examples
 
-
-
 Hello everyone, let me assume the reason you are here.
 
-* Learning about Indexing, OR
-* Learning about sharding, OR
-* Stealing database related content, OR
-* Getting to know about prodinit, OR
-* Learning how to built efficient data systems, OR
-* Actually strugging with poor database performance, slow queries and what not.
+- Learning about Indexing, OR
+- Learning about sharding, OR
+- Stealing database related content, OR
+- Getting to know about prodinit, OR
+- Learning how to built efficient data systems, OR
+- Actually strugging with poor database performance, slow queries and what not.
 
 Anyways, now that you are here, I'll try to make sure you learn something new or revise the concepts you already know.
 
