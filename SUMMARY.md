@@ -45,6 +45,7 @@
 
 ## python
 
+* [Play with List of dictionaries in Python](python/play-with-list-of-dicts.md)
 
 ## Contact Us
 

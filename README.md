@@ -25,14 +25,14 @@ description: Expert insights into the future of technology and innovation
 ## Categories
 
 * [AWS](#aws) [**`5`**] 
-* [Backend Engineering](#backend-engineering) [**`3`**] 
+* [Backend Engineering](#backend-engineering) [**`4`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
 * [Devops](#devops) [**`4`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`0`**] 
 * [LLM](#llm) [**`0`**] 
-* [Python](#python) [**`0`**] 
+* [Python](#python) [**`1`**] 
 
 ### AWS
 
@@ -54,6 +54,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
 
 </ul>
 
@@ -116,6 +117,7 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
+<li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
 
 </ul>
 

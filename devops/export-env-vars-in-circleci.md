@@ -34,7 +34,7 @@ Note: BASH_ENV is purely bash-thing. So for example if you use alpine based dock
 <a>
 <img alt="Devops" src="https://img.shields.io/badge/Devops-8A2BE2" />
 <a>
-<img alt="Cirle CI" src="https://img.shields.io/badge/Circle CI-8A2BE2" />
+<img alt="Cirle CI" src="https://img.shields.io/badge/Circle-CI-8A2BE2" />
 </a>
 
 ### Enjoyed the blog? If so, you'll appreciate collaborating with the minds behind it as well.
