@@ -18,19 +18,15 @@
 
 ## data engineering
 
-* [Elasticsearch - From Novice to Expert](data-engineering/elasticsearch-novice-to-expert.md)
 
 
 ## databases
 
-* [Database Optimisation: Indexing vs Sharding with Postgres and Django ORM examples](databases/indexing-vs-sharding.md)
+* [Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples](databases/indexing-vs-sharding.md)
 
 
 ## devops
 
-* [Setup ECS infra for django based web application](devops/ecs-infra-for-django-app.md)
-* [Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert](devops/kubernetes-deployment-strategies.md)
-* [How to export env variables in circleci? (You wont find this in circleci documentation)](devops/export-env-vars-in-circleci.md)
 
 
 ## frontend engineering
@@ -40,17 +36,14 @@
 
 ## golang
 
-* [Concurrency Comparision: Go vs Python](golang/concurrency-comparision-go-python.md)
 
 
 ## llm
 
-* [What is LLM?](llm/what-is-llm.md)
 
 
 ## python
 
-* [Multipart upload with presigned URL in Python](python/multipart-uploads-with-s3-presigned-url.md)
 
 ## Contact Us
 

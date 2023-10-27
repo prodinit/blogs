@@ -53,7 +53,7 @@ async def get_folder_list():
 
 async def get_files(folder):
     x = os.listdir(folder)
-    x = [f"{folder}/" + file for file in x]
+    x = [f"{folder}/" + file for file in x if not file.startswith("draft")]
     return x
 
 

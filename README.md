@@ -24,15 +24,15 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`8`**] 
-* [Backend Engineering](#backend-engineering) [**`6`**] 
-* [Data Engineering](#data-engineering) [**`1`**] 
-* [Databases](#databases) [**`2`**] 
-* [Devops](#devops) [**`6`**] 
+* [AWS](#aws) [**`5`**] 
+* [Backend Engineering](#backend-engineering) [**`3`**] 
+* [Data Engineering](#data-engineering) [**`0`**] 
+* [Databases](#databases) [**`1`**] 
+* [Devops](#devops) [**`3`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
-* [Golang](#golang) [**`1`**] 
-* [LLM](#llm) [**`1`**] 
-* [Python](#python) [**`3`**] 
+* [Golang](#golang) [**`0`**] 
+* [LLM](#llm) [**`0`**] 
+* [Python](#python) [**`0`**] 
 
 ### AWS
 
@@ -42,10 +42,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
 
 </ul>
 
@@ -56,10 +53,7 @@ description: Expert insights into the future of technology and innovation
 
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency? </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation: Indexing vs Sharding with Postgres and Django ORM examples </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples </a></li>
 
 </ul>
 
@@ -68,7 +62,6 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
-<li><a target="_blank" href="https://blogs.prodinit.com/data-engineering/elasticsearch-novice-to-expert"> Elasticsearch - From Novice to Expert </a></li>
 
 </ul>
 
@@ -77,8 +70,7 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
-<li><a target="_blank" href="https://blogs.prodinit.com/data-engineering/elasticsearch-novice-to-expert"> Elasticsearch - From Novice to Expert </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation: Indexing vs Sharding with Postgres and Django ORM examples </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples </a></li>
 
 </ul>
 
@@ -90,9 +82,6 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/kubernetes-deployment-strategies"> Master Advanced Kubernetes Deployment Techniques: Deploy Like an Expert </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/export-env-vars-in-circleci"> How to export env variables in circleci? (You wont find this in circleci documentation) </a></li>
 
 </ul>
 
@@ -110,7 +99,6 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
-<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
 
 </ul>
 
@@ -119,7 +107,6 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
-<li><a target="_blank" href="https://blogs.prodinit.com/llm/what-is-llm"> What is LLM? </a></li>
 
 </ul>
 
@@ -128,9 +115,6 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
-<li><a target="_blank" href="https://blogs.prodinit.com/devops/ecs-infra-for-django-app"> Setup ECS infra for django based web application </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/golang/concurrency-comparision-go-python"> Concurrency Comparision: Go vs Python </a></li>
-<li><a target="_blank" href="https://blogs.prodinit.com/python/multipart-uploads-with-s3-presigned-url"> Multipart upload with presigned URL in Python </a></li>
 
 </ul>
 
