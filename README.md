@@ -24,11 +24,11 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`5`**] 
+* [AWS](#aws) [**`6`**] 
 * [Backend Engineering](#backend-engineering) [**`4`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
-* [Devops](#devops) [**`4`**] 
+* [Devops](#devops) [**`5`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`0`**] 
 * [LLM](#llm) [**`0`**] 
@@ -42,6 +42,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
 
 </ul>
@@ -83,6 +84,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/export-env-vars-in-circleci"> How to export env variables in circleci? (You wont find this in circleci documentation) </a></li>
 
 </ul>

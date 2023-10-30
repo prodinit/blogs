@@ -27,6 +27,7 @@
 
 ## devops
 
+* [Things to remember before building your first blue/green deployment in Kubernetes](devops/blue-green-deployment.md)
 * [How to export env variables in circleci? (You wont find this in circleci documentation)](devops/export-env-vars-in-circleci.md)
 
 
