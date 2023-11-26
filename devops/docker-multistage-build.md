@@ -62,7 +62,8 @@ Using the above dockerfile code, we can create a docker image of the golang appl
 
 <figure><img src="https://i.ibb.co/2Zpm6fX/Screenshot-2023-11-09-at-12-17-17-AM.png"><figcaption></figcaption></figure>
 
-1.85MB docker image of the same hello world application.
+###1.85MB docker image of the same hello world application.
+
 74.89% lighter images.
 
 We're constructing the image through a two-stage process. Initially, we employ a Golang base image, embed our code within it, and compile our executable file, App. Moving on to the next stage, we utilize a fresh Alpine base image, transferring the binary created in the previous step to this new stage.

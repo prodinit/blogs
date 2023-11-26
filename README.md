@@ -24,15 +24,15 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`6`**] 
-* [Backend Engineering](#backend-engineering) [**`4`**] 
+* [AWS](#aws) [**`7`**] 
+* [Backend Engineering](#backend-engineering) [**`5`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
-* [Devops](#devops) [**`6`**] 
+* [Devops](#devops) [**`7`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`0`**] 
-* [Python](#python) [**`1`**] 
+* [Python](#python) [**`2`**] 
 
 ### AWS
 
@@ -44,6 +44,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues. </a></li>
 
 </ul>
 
@@ -56,6 +57,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues. </a></li>
 
 </ul>
 
@@ -87,6 +89,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-multistage-build"> A comparision between multistage build and singlestage build in Docker </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/export-env-vars-in-circleci"> How to export env variables in circleci? (You wont find this in circleci documentation) </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues. </a></li>
 
 </ul>
 
@@ -122,6 +125,7 @@ description: Expert insights into the future of technology and innovation
 <ul>
 
 <li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues. </a></li>
 
 </ul>
 
