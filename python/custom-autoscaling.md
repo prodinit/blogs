@@ -1,12 +1,20 @@
-# A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues.
+# How we develop a custom autoscaling metrics based on number of tasks in the queues?
 
-This blog is going to be a case study. We will delve into a critical problem statement: dynamically scaling an asynchronous web application to handle variable loads. The solution we're about to explore was successfully implemented in a Django Celery-based asynchronous application, deployed on AWS ECS (Elastic Container Service). Familiarity with ECS and its services, particularly how they autonomously scale, will facilitate a deeper understanding of our discussion. While the solution is demonstrated within this tech stack, the underlying concept can be replicated in other programming languages when deployed in a comparable manner.
+This blog will illustrate a use case which was solved by developing a custom autoscaling metrics. We will hunt into a critical problem statement: **dynamically scaling an asynchronous distributed web application to handle variable loads**.
+
+The solution we're about to explore was successfully implemented in a Django Celery Redis based asynchronous application, deployed on AWS ECS (Elastic Container Service). While the solution is demonstrated within this tech stack, the underlying concept can be replicated in other programming languages when deployed in a similar fashion.
+
+## Basics of sistributed systems
 
 <figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20221210223508/Screenshot-from-2022-12-10-22-34-49.png" alt=""><figcaption></figcaption></figure>
 
-Let's explore the functioning of distributed systems. In essence, distributed systems comprise independent computers linked through a central system, often represented by a message broker. Most problems that need scaling these days will need to scale beyond a single computer, maybe for a short period of time but it is required. In our scenario, the Django application, serving as our primary program, dissects tasks into independent sets, pushing them into a Redis queue. These queues are then linked to Celery workers—autonomous computer systems that retrieve tasks from the queue, execute them, and store the results back in Redis or another designated database.
+Let's explore the functioning of distributed systems. In essence, distributed systems comprise of independent computers systems linked through a central system, often represented by a message broker. Most problems that need scaling these days will need to scale beyond a single computer, maybe for a short period of time but it is required.
 
-With the prerequisites in place, let's delve into the specific challenge we encountered and how we addressed it. Our primary issue revolved around the management of numerous asynchronous tasks requiring processing. We had designated queues for different task types, each aligned with a specific Celery worker. However, the workload on these workers proved unpredictable. At times, a queue could be inundated with 5000 concurrent tasks demanding swift processing, while at other times, it might be completely empty. Simultaneously, other Celery workers could remain idle because their associated queues were empty.
+In our scenario, the Django application, serving as our primary program, distributes tasks into independent sets, pushing them into a Redis queue. These queues are then linked to Celery workers, that retrieve tasks from the queue, execute them, and store the results back in Redis or another designated database.
+
+## What was the problem?
+
+With the prerequisites in place, let's deep dive into the specific challenge we encountered and how we addressed it. Our primary issue revolved around the management of numerous asynchronous tasks requiring processing. We had designated queues for different task types, each aligned with a specific Celery worker. However, the workload on these workers proved unpredictable. At times, a queue could be flooded with thousands and thousands of concurrent tasks demanding swift processing, while at other times, it might be completely empty. Simultaneously, other Celery workers could remain idle because their associated queues were empty.
 
 Traditional autoscaling solutions based on CPU and memory proved inadequate due to the unpredictable nature of the workload.
 
@@ -60,17 +68,16 @@ X celery workers = 1000 tasks in 100 mins => 5 workers
 
 - Calculation of Celery Workers: How to calculate the number of celery workers required to complete X number of tasks in Y time.
 
-- Downscaling without Disruption: The concern about downsizing without affecting ongoing tasks is pivotal for maintaining a smooth and uninterrupted workflow. This consideration likely involves mechanisms to gracefully handle the transition, allowing in-progress tasks to complete without disruption before scaling down.
+- Downscaling without task loss: The concern about downsizing without affecting ongoing tasks is pivotal for maintaining a smooth and uninterrupted workflow. This consideration likely involves mechanisms to gracefully handle the transition, allowing in-progress tasks to complete without disruption before scaling down.
 
 ## Results
-#### This is how we developed a custom auto scaling solution, which helped us save time and money.
-
+#### We developed a custom auto scaling solution which scales our architecture based on variable load, which helped us save time and money.
 
 ## Open Source
 
-Absolutely, open-sourcing your solution is a fantastic idea, especially if you believe it can benefit other teams facing similar challenges. It aligns well with the collaborative nature of the open-source community and fosters knowledge sharing.
+Open-sourcing the solution is a fantastic idea, especially when you believe it can benefit other teams facing similar challenges. It aligns well with the collaborative nature of the open-source community and fosters knowledge sharing.
 
-Here is the github link to repository. https://github.com/prodinit/django-celery-autoscale
+Here is the github link to repository. [https://github.com/prodinit/django-celery-autoscale](https://github.com/prodinit/django-celery-autoscale)
 - Reach us out if you need help in integrations.
 - Fork, clone and customize it according to your needs
 - Open new issues if you want to grow this project and add more customisations and support.

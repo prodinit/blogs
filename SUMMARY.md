@@ -48,7 +48,7 @@
 ## python
 
 * [Play with List of dictionaries in Python](python/play-with-list-of-dicts.md)
-* [A Case Study: How we developed a custom autoscaling metrics based on number of tasks in our queues.](python/custom-autoscaling.md)
+* [How we develop a custom autoscaling metrics based on number of tasks in the queues?](python/custom-autoscaling.md)
 
 ## Contact Us
 
