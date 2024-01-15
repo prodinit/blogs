@@ -28,6 +28,7 @@
 
 ## devops
 
+* [Docker Best Practices](devops/docker-best-practices.md)
 * [Docker Networking - Bridge vs Host vs Overlay](devops/docker-networking.md)
 * [A comparision between multistage build and singlestage build in Docker](devops/docker-multistage-build.md)
 * [Things to remember before building your first blue/green deployment in Kubernetes](devops/blue-green-deployment.md)

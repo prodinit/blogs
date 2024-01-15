@@ -28,7 +28,7 @@ description: Expert insights into the future of technology and innovation
 * [Backend Engineering](#backend-engineering) [**`5`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
-* [Devops](#devops) [**`9`**] 
+* [Devops](#devops) [**`10`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`0`**] 
@@ -88,6 +88,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/download-lambda-code"> How to download/view code running in your lambda functions? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-best-practices"> Docker Best Practices </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-networking"> Docker Networking - Bridge vs Host vs Overlay </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-multistage-build"> A comparision between multistage build and singlestage build in Docker </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
