@@ -9,6 +9,7 @@
 * [Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert](aws/enable-cloudwatch-alarm-for-billing-alert.md)
 * [A-Z of AWS VPC and other services - with Terraform](aws/all-about-vpc-and-other-related-services.md)
 * [How Internet Works?](aws/how-internet-works.md)
+* [How to download/view code running in your lambda functions?](aws/download-lambda-code.md)
 
 
 ## backend engineering

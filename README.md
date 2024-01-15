@@ -24,11 +24,11 @@ description: Expert insights into the future of technology and innovation
 
 ## Categories
 
-* [AWS](#aws) [**`7`**] 
+* [AWS](#aws) [**`8`**] 
 * [Backend Engineering](#backend-engineering) [**`5`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
-* [Devops](#devops) [**`8`**] 
+* [Devops](#devops) [**`9`**] 
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`0`**] 
@@ -42,6 +42,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/enable-cloudwatch-alarm-for-billing-alert"> Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/download-lambda-code"> How to download/view code running in your lambda functions? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/frontend-engineering/cloudfront-hosting"> Host your static website with s3, CloudFront, Route53, and domain from godaddy in 4 easy steps </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> How we develop a custom autoscaling metrics based on number of tasks in the queues? </a></li>
@@ -86,6 +87,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/all-about-vpc-and-other-related-services"> A-Z of AWS VPC and other services - with Terraform </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/how-internet-works"> How Internet Works? </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/aws/download-lambda-code"> How to download/view code running in your lambda functions? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-networking"> Docker Networking - Bridge vs Host vs Overlay </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/docker-multistage-build"> A comparision between multistage build and singlestage build in Docker </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/devops/blue-green-deployment"> Things to remember before building your first blue/green deployment in Kubernetes </a></li>
