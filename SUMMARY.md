@@ -48,6 +48,11 @@
 
 
 
+## product management
+
+* [You'll fail as a lead developer, here's why ...](product-management/how-to-be-lead-dev.md)
+
+
 ## python
 
 * [Play with List of dictionaries in Python](python/play-with-list-of-dicts.md)

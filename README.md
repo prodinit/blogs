@@ -32,6 +32,7 @@ description: Expert insights into the future of technology and innovation
 * [Frontend Engineering](#frontend-engineering) [**`1`**] 
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`0`**] 
+* [Product Management](#product-management) [**`1`**] 
 * [Python](#python) [**`2`**] 
 
 ### AWS
@@ -120,6 +121,15 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
+
+</ul>
+
+
+### Product Management
+
+<ul>
+
+<li><a target="_blank" href="https://blogs.prodinit.com/product-management/how-to-be-lead-dev"> You'll fail as a lead developer, here's why ... </a></li>
 
 </ul>
 
