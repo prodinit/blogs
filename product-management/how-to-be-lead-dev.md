@@ -4,7 +4,7 @@ Senior developers are champions. They was master of the craft, go-to problem sol
 
 But here's the secret: **being a senior developer doesn't automatically make you a great lead developer.**
 
-As junior and senior developers follow the process of **learning on the go**, this does not necessarily works from a lead developer. Thrown into a lead role without much preparation could lead to uncontrollable situations and you could find yourself struggeling between project estimates, client meetings and team management. 
+As junior and senior developers follow the process of **learning on the go**, this does not necessarily work for a lead developer. Thrown into a lead role without much preparation could lead to uncontrollable situations and you could find yourself struggeling between project estimates, client meetings and team management. 
 
 The technical skills that got you in the lead position are not enough. 
 
