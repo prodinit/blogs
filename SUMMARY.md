@@ -55,6 +55,7 @@
 
 ## python
 
+* [Achieve Peak Performance in Python](python/performance-optimisation-python.md)
 * [Play with List of dictionaries in Python](python/play-with-list-of-dicts.md)
 * [How we develop a custom autoscaling metrics based on number of tasks in the queues?](python/custom-autoscaling.md)
 

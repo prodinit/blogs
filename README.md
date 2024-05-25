@@ -25,7 +25,7 @@ description: Expert insights into the future of technology and innovation
 ## Categories
 
 * [AWS](#aws) [**`8`**] 
-* [Backend Engineering](#backend-engineering) [**`5`**] 
+* [Backend Engineering](#backend-engineering) [**`6`**] 
 * [Data Engineering](#data-engineering) [**`0`**] 
 * [Databases](#databases) [**`1`**] 
 * [Devops](#devops) [**`10`**] 
@@ -33,7 +33,7 @@ description: Expert insights into the future of technology and innovation
 * [Golang](#golang) [**`1`**] 
 * [LLM](#llm) [**`0`**] 
 * [Product Management](#product-management) [**`1`**] 
-* [Python](#python) [**`2`**] 
+* [Python](#python) [**`3`**] 
 
 ### AWS
 
@@ -58,6 +58,7 @@ description: Expert insights into the future of technology and innovation
 <li><a target="_blank" href="https://blogs.prodinit.com/aws/clean-ecr-images"> Ways to delete AWS ECR images </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/backend-engineering/what-is-idempotency"> What is idempotency? </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/databases/indexing-vs-sharding"> Database Optimisation - Indexing vs Sharding with Postgres and Django ORM examples </a></li>
+<li><a target="_blank" href="https://blogs.prodinit.com/python/performance-optimisation-python"> Achieve Peak Performance in Python </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> How we develop a custom autoscaling metrics based on number of tasks in the queues? </a></li>
 
@@ -138,6 +139,7 @@ description: Expert insights into the future of technology and innovation
 
 <ul>
 
+<li><a target="_blank" href="https://blogs.prodinit.com/python/performance-optimisation-python"> Achieve Peak Performance in Python </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/play-with-list-of-dicts"> Play with List of dictionaries in Python </a></li>
 <li><a target="_blank" href="https://blogs.prodinit.com/python/custom-autoscaling"> How we develop a custom autoscaling metrics based on number of tasks in the queues? </a></li>
 
