@@ -70,7 +70,8 @@ def create_count_file(folders):
     for folder in folders:
         count += len(folder["files"])
 
-    with open("count.json", "w") as json_file:
+    # CHANGED HERE
+    with open("count.json", "w", encoding="utf-8") as json_file:
         data = {"count": count}
         json.dump(data, json_file, indent=" ")
 
@@ -78,22 +79,25 @@ def create_count_file(folders):
 async def create_gitbooks_summary(folder_details):
     print("Generating gitbooks summary")
 
-    with open("SUMMARY.md", "w") as summary:
+    # CHANGED HERE
+    with open("SUMMARY.md", "w", encoding="utf-8") as summary:
         summary.write(SUMMARY_HEADER)
         for folder in folder_details:
             folder_name = " ".join(folder["folder_name"].split("-"))
             summary.write(f"\n\n## {folder_name}\n\n")
             for file in folder["files"]:
-                get_filename = open(file, "r")
-                filename = get_filename.readline()[2:].strip()
-                summary.write(f"* [{filename}]({file})\n")
+                # CHANGED HERE
+                with open(file, "r", encoding="utf-8") as get_filename:
+                    filename = get_filename.readline()[2:].strip()
+                    summary.write(f"* [{filename}]({file})\n")
 
         summary.write(CONTACT_US_FOOTER)
 
 
 def get_tags(file):
-    f = open(file, "r")
-    lines = f.readlines()
+    # CHANGED HERE
+    with open(file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
     index = [index for index, string in enumerate(lines) if "#### Tags" in string][0]
     tags = []
     for line in lines[index + 1 :]:
@@ -108,12 +112,10 @@ def get_tags(file):
 async def create_gitbooks_readme(folder_details):
     print("Generating gitbooks readme")
 
-    with open("README.md", "w") as readme:
+    # CHANGED HERE
+    with open("README.md", "w", encoding="utf-8") as readme:
         ## Write Header
         readme.write(README_HEADER)
-
-        ## Write Latest Blogs Section
-        # readme.write("## Latest Blogs\n\n")
 
         ## Write Categories Section
         readme.write("## Categories\n\n")
@@ -156,16 +158,17 @@ async def create_gitbooks_readme(folder_details):
             ## Generate Blog List
             readme.write("<ul>\n\n")
             for d in data:
-                get_filename = open(d, "r")
-                filename = get_filename.readline()[2:].strip()
-                readme.write("<li>")
-                readme.write(
-                    f'<a target="_blank" href="https://blogs.prodinit.com/{d[:-3]}"> {filename} </a>'
-                )
-                readme.write("</li>\n")
+                # CHANGED HERE
+                with open(d, "r", encoding="utf-8") as get_filename:
+                    filename = get_filename.readline()[2:].strip()
+                    readme.write("<li>")
+                    readme.write(
+                        f'<a target="_blank" href="https://blogs.prodinit.com/{d[:-3]}"> {filename} </a>'
+                    )
+                    readme.write("</li>\n")
             readme.write("\n</ul>\n\n")
 
-        readme.write(CONTACT_US_FOOTER)
+        readme.write(README_FOOTER)
 
 
 async def main():
