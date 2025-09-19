@@ -5,11 +5,11 @@
 
 ## aws
 
-* [Ways to delete AWS ECR images](aws/clean-ecr-images.md)
-* [Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert](aws/enable-cloudwatch-alarm-for-billing-alert.md)
 * [A-Z of AWS VPC and other services - with Terraform](aws/all-about-vpc-and-other-related-services.md)
-* [How Internet Works?](aws/how-internet-works.md)
+* [Ways to delete AWS ECR images](aws/clean-ecr-images.md)
 * [How to download/view code running in your lambda functions?](aws/download-lambda-code.md)
+* [Enable Cloudwatch Alarm and SNS Topic for AWS Billing Alert](aws/enable-cloudwatch-alarm-for-billing-alert.md)
+* [How Internet Works?](aws/how-internet-works.md)
 
 
 ## backend engineering
@@ -28,10 +28,10 @@
 
 ## devops
 
-* [Docker Best Practices](devops/docker-best-practices.md)
-* [Docker Networking - Bridge vs Host vs Overlay](devops/docker-networking.md)
-* [A comparision between multistage build and singlestage build in Docker](devops/docker-multistage-build.md)
 * [Things to remember before building your first blue/green deployment in Kubernetes](devops/blue-green-deployment.md)
+* [Docker Best Practices](devops/docker-best-practices.md)
+* [A comparision between multistage build and singlestage build in Docker](devops/docker-multistage-build.md)
+* [Docker Networking - Bridge vs Host vs Overlay](devops/docker-networking.md)
 * [How to export env variables in circleci? (You wont find this in circleci documentation)](devops/export-env-vars-in-circleci.md)
 
 
@@ -46,6 +46,7 @@
 
 ## llm
 
+* [](llm/prompting-for-voice-ai.md)
 
 
 ## product management
@@ -55,9 +56,9 @@
 
 ## python
 
+* [How we develop a custom autoscaling metrics based on number of tasks in the queues?](python/custom-autoscaling.md)
 * [Achieve Peak Performance in Python](python/performance-optimisation-python.md)
 * [Play with List of dictionaries in Python](python/play-with-list-of-dicts.md)
-* [How we develop a custom autoscaling metrics based on number of tasks in the queues?](python/custom-autoscaling.md)
 
 ## Contact Us
 
