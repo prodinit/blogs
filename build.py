@@ -70,7 +70,7 @@ def create_count_file(folders):
     for folder in folders:
         count += len(folder["files"])
 
-    with open("count.json", "w") as json_file:
+    with open("count.json", "w", encoding="utf-8") as json_file:
         data = {"count": count}
         json.dump(data, json_file, indent=" ")
 
@@ -78,13 +78,13 @@ def create_count_file(folders):
 async def create_gitbooks_summary(folder_details):
     print("Generating gitbooks summary")
 
-    with open("SUMMARY.md", "w") as summary:
+    with open("SUMMARY.md", "w", encoding="utf-8") as summary:
         summary.write(SUMMARY_HEADER)
         for folder in folder_details:
             folder_name = " ".join(folder["folder_name"].split("-"))
             summary.write(f"\n\n## {folder_name}\n\n")
             for file in folder["files"]:
-                get_filename = open(file, "r")
+                get_filename = open(file, "r", encoding="utf-8")
                 filename = get_filename.readline()[2:].strip()
                 summary.write(f"* [{filename}]({file})\n")
 
@@ -92,7 +92,7 @@ async def create_gitbooks_summary(folder_details):
 
 
 def get_tags(file):
-    f = open(file, "r")
+    f = open(file, "r", encoding="utf-8")
     lines = f.readlines()
     index = [index for index, string in enumerate(lines) if "#### Tags" in string][0]
     tags = []
@@ -108,7 +108,7 @@ def get_tags(file):
 async def create_gitbooks_readme(folder_details):
     print("Generating gitbooks readme")
 
-    with open("README.md", "w") as readme:
+    with open("README.md", "w", encoding="utf-8") as readme:
         ## Write Header
         readme.write(README_HEADER)
 
@@ -156,7 +156,7 @@ async def create_gitbooks_readme(folder_details):
             ## Generate Blog List
             readme.write("<ul>\n\n")
             for d in data:
-                get_filename = open(d, "r")
+                get_filename = open(d, "r", encoding="utf-8")
                 filename = get_filename.readline()[2:].strip()
                 readme.write("<li>")
                 readme.write(
