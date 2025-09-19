@@ -84,7 +84,7 @@ async def create_gitbooks_summary(folder_details):
             folder_name = " ".join(folder["folder_name"].split("-"))
             summary.write(f"\n\n## {folder_name}\n\n")
             for file in folder["files"]:
-                get_filename = open(file, "r")
+                get_filename = open(file, "r", encoding="utf-8")
                 filename = get_filename.readline()[2:].strip()
                 summary.write(f"* [{filename}]({file})\n")
 
@@ -92,7 +92,7 @@ async def create_gitbooks_summary(folder_details):
 
 
 def get_tags(file):
-    f = open(file, "r")
+    f = open(file, "r", encoding="utf-8")
     lines = f.readlines()
     index = [index for index, string in enumerate(lines) if "#### Tags" in string][0]
     tags = []
@@ -156,7 +156,7 @@ async def create_gitbooks_readme(folder_details):
             ## Generate Blog List
             readme.write("<ul>\n\n")
             for d in data:
-                get_filename = open(d, "r")
+                get_filename = open(d, "r", encoding="utf-8")
                 filename = get_filename.readline()[2:].strip()
                 readme.write("<li>")
                 readme.write(
